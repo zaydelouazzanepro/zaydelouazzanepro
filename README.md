@@ -25,20 +25,3 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,netlify,linux,bash,sqlite" alt="Tools Icons" />
 </p>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-### 💫 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
