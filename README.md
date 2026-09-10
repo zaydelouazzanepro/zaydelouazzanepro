@@ -9,12 +9,12 @@
 
 **Full Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap" alt="Full Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,laravel,supabase,tailwind,bootstrap" alt="Full Stack Icons" />
 </p>
 
 **Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio" alt="Mobile Icons" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" alt="Mobile Icons" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
